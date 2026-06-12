@@ -1,0 +1,6 @@
+{
+  "name": "DevTools Network Capturer",
+  "description": "Capture browser network requests, analyze request details, or import HAR logs to generate and export Postman collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
